@@ -1,4 +1,4 @@
-# Color Flipper
+# Counter
 
 This is a basic Vanilla JS project where a count value is updated and displayed on screen when a button is clicked. 
 
