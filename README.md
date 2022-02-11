@@ -10,6 +10,6 @@ I have followed John Smilga's Vannila JS projects tutorial on YouTube and built 
 
 Link to the tutorial: https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=2110s
 
-app.js is Open Source. Feel free to use this code as a reference for your projects but please give me credits, coz, let's agree, leaching sucks!
+app.js and server.js is Open Source. Feel free to use this code as a reference for your projects but please give me credits, coz, let's agree, leaching sucks!
 
 Feel free to leave your comments at hayagreev.varadarajan@outlook.com!
